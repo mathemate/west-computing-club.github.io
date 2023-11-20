@@ -7,10 +7,10 @@
 <div class="w-full p-10 flex items-center flex-col ">
 
 <div id="g_id_onload"
-     data-client_id="f"
+     data-client_id=""
      data-context="signin"
      data-ux_mode="popup"
-     data-login_uri="f"
+     data-login_uri="https://reimagined-guide-67gpx7pv5wp34rj7-5173.app.github.dev/api/login"
      data-auto_prompt="false">
 </div>
 
