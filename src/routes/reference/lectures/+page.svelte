@@ -18,6 +18,7 @@
                 <th>Link URL</th>
             </tr>
         </thead>
+        
         <tbody>
             {#each data.info as collection}
                 <tr>
